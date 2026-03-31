@@ -1,16 +1,18 @@
-## Hi there 👋
+# NHL Excitement Meter 🏒🔥
 
-<!--
-**clawrence22/clawrence22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A web app that scores NHL games based on excitement factors like goals, hits, and fights.
 
-Here are some ideas to get you started:
+## 🚀 Live Demo
+[Coming Soon]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Architecture
+
+Frontend (React) → Backend (Flask API) → NHL Data API
+
+## 📦 Repositories
+
+| Component   | Description | Link |
+|------------|------------|------|
+| Frontend   | UI built with React | https://github.com/clawrence22/nhl-excit-o-meter-fe|
+| Backend    | Flask API + scoring logic | https://github.com/clawrence22/nhl-excite-o-meter-be |
+| Lambda     | Lambda for kicking off data collector | https://github.com/clawrence22/nhl-excit-o-meter-starttime-checker |
